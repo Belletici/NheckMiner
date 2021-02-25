@@ -1,0 +1,2 @@
+# NheckMiner
+Neheck Miner Master
